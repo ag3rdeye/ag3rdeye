@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arzun
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me : arjun.thirdeye@gmail.com
 <!--- 💞️ I’m looking to collaborate on ... -->
 
